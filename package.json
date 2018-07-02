@@ -1,6 +1,6 @@
 {
   "name": "@dealerslink/node-express-rate-limiter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A cache-based, request rate limiter for ExpressJS",
   "main": "index.js",
   "scripts": {
@@ -28,8 +28,8 @@
   },
   "dependencies": {
     "@dealerslink/lodash-extended": "^1.0.0",
-    "@dealerslink/node-express-request-utils": "^1.0.1",
-    "@dealerslink/node-object-key-cache": "^1.0.2",
+    "@dealerslink/node-express-request-utils": "^1.0.4",
+    "@dealerslink/node-object-key-cache": "^1.0.3",
     "bluebird": "^3.5.1",
     "logstub": "^1.1.2",
     "redis": "^2.8.0"
