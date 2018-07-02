@@ -1,7 +1,7 @@
 // index.js
 
 // Dependencies
-const __ = require('@mediaxpost/lodashext');
+const __ = require('@dealerslink/lodash-extended');
 const ObjectKeyCache = require('@dealerslink/node-object-key-cache');
 const ReqUtils = require('@dealerslink/node-express-request-utils');
 const LogStub = require('logstub');
